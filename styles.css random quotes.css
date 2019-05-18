@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(212, 255, 177);
+    margin-top: 5em;
+}
+
+blockquote {
+    color: rgb(136, 231, 255);
+
+}
